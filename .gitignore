@@ -15,6 +15,7 @@ node_modules/
 # ========================
 frontend/dist/
 frontend/build/
+.vercel/
 
 # ========================
 # Logs
